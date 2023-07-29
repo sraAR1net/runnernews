@@ -1,1 +1,6 @@
-Welcome to Runner news!!
+Welcome to Runner news! Here, You can see every new from the official Runner 3 developers!
+
+Test 1
+Test 2
+Test 3
+Line break
