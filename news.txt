@@ -1,6 +1,5 @@
-Welcome to Runner news! Here, You can see every new from the official Runner 3 developers!
+This is a sample new for testing in the new Runner news!
+This is a line
 
-Test 1
-Test 2
-Test 3
-Line break
+
+and this line is far away...!!
